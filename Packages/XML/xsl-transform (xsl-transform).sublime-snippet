@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:transform version="${1:1.0}"${3: id="${2}"}${5: extension-element-prefixes="${4:NCNames}"}${7: exclude-result-prefixes="${6:NCNames}"}>
+    ${0}
+</xsl:transform>
+]]></content>
+    <tabTrigger>xsl:transform</tabTrigger>
+    <description>xsl:transform</description>
+</snippet>

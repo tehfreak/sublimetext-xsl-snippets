@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:text${2: disable-output-escaping="${1:no}"}>
+    ${0}
+</xsl:text>
+]]></content>
+    <tabTrigger>xsl:text</tabTrigger>
+    <description>xsl:text</description>
+</snippet>

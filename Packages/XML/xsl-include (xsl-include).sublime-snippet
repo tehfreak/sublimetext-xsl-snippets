@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:include href="${1:URI}">
+    ${0}
+</xsl:include>
+]]></content>
+    <tabTrigger>xsl:include</tabTrigger>
+    <description>xsl:include</description>
+</snippet>

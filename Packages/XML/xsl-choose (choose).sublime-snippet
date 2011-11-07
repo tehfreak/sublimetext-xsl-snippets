@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:choose>
+    ${0}
+</xsl:choose>
+]]></content>
+    <tabTrigger>choose</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:choose</description>
+</snippet>

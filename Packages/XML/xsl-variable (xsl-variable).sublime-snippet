@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:variable name="${1:QName}"${3: select="${2:Expression}"}${4:>
+    ${0}
+</xsl:variable}>
+]]></content>
+    <tabTrigger>xsl:variable</tabTrigger>
+    <description>xsl:variable</description>
+</snippet>

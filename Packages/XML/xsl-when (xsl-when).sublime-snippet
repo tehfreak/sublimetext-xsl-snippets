@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:when test="${1:Expression}">
+    ${0}
+</xsl:when>
+]]></content>
+    <tabTrigger>xsl:when</tabTrigger>
+    <description>xsl:when</description>
+</snippet>

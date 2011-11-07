@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:apply-imports />
+]]></content>
+    <tabTrigger>xsl:apply-imports</tabTrigger>
+    <description>xsl:apply-imports</description>
+</snippet>

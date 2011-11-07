@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:copy${2: use-attribute-sets="${1:QNames}"}>
+    ${0}
+</xsl:copy>
+]]></content>
+    <tabTrigger>copy</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:copy</description>
+</snippet>

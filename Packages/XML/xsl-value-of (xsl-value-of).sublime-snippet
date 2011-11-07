@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:value-of select="${1:Expression}"${3: disable-output-escaping="${2:no}"}/>
+]]></content>
+    <tabTrigger>xsl:value-of</tabTrigger>
+    <description>xsl:value-of</description>
+</snippet>

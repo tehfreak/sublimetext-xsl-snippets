@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:fallback>
+    ${0}
+</xsl:fallback>
+]]></content>
+    <tabTrigger>fallback</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:fallback</description>
+</snippet>

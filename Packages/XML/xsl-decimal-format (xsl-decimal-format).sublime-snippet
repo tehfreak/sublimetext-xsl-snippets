@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:decimal-format${2: name="${1:QName}"}${4: decimal-separator="${3:.}"}${6: grouping-separator="${5:,}"}${8: infinity="${7:Infinity}"}${10: minus-sign="${9:-}"}${12: NaN="${11:NaN}"}${14: percent="${13:%}"}${16: per-mille="${15:#x2030}"}${18: zero-digit="${17:0}"}${20: digit="${19:#}"}${22: pattern-separator="${21:;}"}/>
+]]></content>
+    <tabTrigger>xsl:decimal-format</tabTrigger>
+    <description>xsl:decimal-format</description>
+</snippet>

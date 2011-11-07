@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:output method="${1:QName|xml|html|text}" version="${2:1.0}" encoding="${3:utf-8}">
+    ${0}
+</xsl:output>
+]]></content>
+    <tabTrigger>output</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:output</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:apply-templates${2: select="${1:Expression}"}${4: mode="${3:QName}"}${5:>
+    ${0}
+</xsl:apply-templates}>
+]]></content>
+    <tabTrigger>xsl:apply-templates</tabTrigger>
+    <description>xsl:apply-templates</description>
+</snippet>

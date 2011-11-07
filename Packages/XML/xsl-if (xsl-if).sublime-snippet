@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:if test="${1:Expression}">
+    ${0}
+</xsl:if>
+]]></content>
+    <tabTrigger>xsl:if</tabTrigger>
+    <description>xsl:if</description>
+</snippet>

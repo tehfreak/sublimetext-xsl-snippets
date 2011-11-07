@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:message${2: terminate="${1:no}"}>
+    ${0}
+</xsl:message>
+]]></content>
+    <tabTrigger>msg</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:message</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:with-param name="${1:QName}"${3: select="${2:Expression}"}${4:>
+    ${0}
+</xsl:with-param}>
+]]></content>
+    <tabTrigger>xsl:with-param</tabTrigger>
+    <description>xsl:with-param</description>
+</snippet>

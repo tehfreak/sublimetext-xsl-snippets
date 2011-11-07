@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<xsl:apply-templates${2: select="${1:Expression}"}/>
+]]></content>
+    <tabTrigger>apply</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:apply-templates</description>
+</snippet>

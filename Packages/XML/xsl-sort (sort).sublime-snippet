@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<xsl:sort${2: select="${1:Expression}"}${4: lang="${3:NMToken}"}${6: data-type="${5:text|number}"}${8: order="${7:ascending|descending}"}${10: case-order="${9:upper-first|lower-first}"}/>
+]]></content>
+    <tabTrigger>sort</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:sort</description>
+</snippet>

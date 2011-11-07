@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:copy>
+    ${0}
+</xsl:copy>
+]]></content>
+    <tabTrigger>cp</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:copy</description>
+</snippet>

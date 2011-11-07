@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:for-each select="${1:Expression}">
+    ${0}
+</xsl:for-each>
+]]></content>
+    <tabTrigger>for-each</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:for-each</description>
+</snippet>

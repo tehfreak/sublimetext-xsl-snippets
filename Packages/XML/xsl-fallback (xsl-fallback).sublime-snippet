@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:fallback>
+    ${0}
+</xsl:fallback>
+]]></content>
+    <tabTrigger>xsl:fallback</tabTrigger>
+    <description>xsl:fallback</description>
+</snippet>

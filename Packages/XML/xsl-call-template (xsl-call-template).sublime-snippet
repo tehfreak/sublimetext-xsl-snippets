@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:call-template name="${1:QName}"${5:>
+    ${0}
+</xsl:call-template}>
+]]></content>
+    <tabTrigger>xsl:call-template</tabTrigger>
+    <description>xsl:call-template</description>
+</snippet>

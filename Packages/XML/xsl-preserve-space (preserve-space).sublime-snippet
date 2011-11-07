@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<xsl:preserve-space elements="${1:Tokens}"/>
+]]></content>
+    <tabTrigger>preserve-space</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:preserve-space</description>
+</snippet>

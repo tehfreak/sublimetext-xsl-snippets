@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:element name="${1:QName}"${3: namespace="${2:URI}"}${5: use-attribute-sets="${4:QNames}"}>
+    ${0}
+</xsl:element>
+]]></content>
+    <tabTrigger>xsl:element</tabTrigger>
+    <description>xsl:element</description>
+</snippet>

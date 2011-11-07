@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:processing-instruction name="${1:NCName}">
+    ${0}
+</xsl:processing-instruction>
+]]></content>
+    <tabTrigger>xsl:processing-instruction</tabTrigger>
+    <description>xsl:processing-instruction</description>
+</snippet>

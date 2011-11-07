@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<xsl:namespace-alias stylesheet-prefix="${1:NCName}" result-prefix="${2:NCName}">
+    ${0}
+</xsl:namespace-alias>
+]]></content>
+    <tabTrigger>xsl:namespace-alias</tabTrigger>
+    <description>xsl:namespace-alias</description>
+</snippet>

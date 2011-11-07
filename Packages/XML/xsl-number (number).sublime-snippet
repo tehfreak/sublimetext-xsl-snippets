@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<xsl:number${2: level="${1:single|multiple|any}"}${4: count="${3:Pattern}"}${6: from="${5:Pattern}"}${8: value="${7:Expression}"}${10: format="${9}"}${12: lang="${11:NMToken}"}${14: letter-value="${13:alphabetic|traditional}"}${16: grouping-separator="${15:,}"}${18: grouping-size="${17:3}"}/>
+]]></content>
+    <tabTrigger>number</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:number</description>
+</snippet>

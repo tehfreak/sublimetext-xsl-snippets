@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:key name="${1:QName}" match="${2:Pattern}" use="${3:Expression}"/>
+]]></content>
+    <tabTrigger>xsl:key</tabTrigger>
+    <description>xsl:key</description>
+</snippet>

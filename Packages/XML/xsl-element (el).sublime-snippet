@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:element name="${1:QName}">
+    ${0}
+</xsl:element>
+]]></content>
+    <tabTrigger>el</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:element</description>
+</snippet>

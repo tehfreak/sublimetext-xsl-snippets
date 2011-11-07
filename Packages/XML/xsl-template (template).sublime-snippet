@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:template${2: name="${1:QName}"}${4: match="${3:Pattern}"}${6: mode="${5:QName}"}${8: priority="${7:Number}"}>
+    ${0}
+</xsl:template>
+]]></content>
+    <tabTrigger>template</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:template</description>
+</snippet>

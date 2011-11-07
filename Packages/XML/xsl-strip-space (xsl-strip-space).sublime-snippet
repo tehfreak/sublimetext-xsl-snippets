@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:strip-space elements="${1:Tokens}"/>
+]]></content>
+    <tabTrigger>xsl:strip-space</tabTrigger>
+    <description>xsl:strip-space</description>
+</snippet>

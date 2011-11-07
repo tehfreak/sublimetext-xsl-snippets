@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<xsl:copy-of select="${1:Expression}"/>
+]]></content>
+    <tabTrigger>xsl:copy-of</tabTrigger>
+    <description>xsl:copy-of</description>
+</snippet>

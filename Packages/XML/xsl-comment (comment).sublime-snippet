@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<xsl:comment>
+    ${0}
+</xsl:comment>
+]]></content>
+    <tabTrigger>comment</tabTrigger>
+    <scope>text.xml.xsl</scope>
+    <description>xsl:comment</description>
+</snippet>
